@@ -44,13 +44,13 @@ Steps performed:
 ## 📈 Visualizations
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](Superstore-Sales-Analysis/monthly_sales.png)
+![Monthly Sales Trend](/monthly_sales.png)
 
 ### Sales by Category
-![Sales by Category](Superstore-Sales-Analysis/category_sales.png)
+![Sales by Category](/category_sales.png)
 
 ### Profit by Region
-![Profit by Region](Superstore-Sales-Analysis/profit_region.png)
+![Profit by Region](/profit_region.png)
 
 ---
 
